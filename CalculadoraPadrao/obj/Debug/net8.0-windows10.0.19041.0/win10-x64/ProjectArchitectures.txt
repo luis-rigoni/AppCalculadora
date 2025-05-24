@@ -1,0 +1,1 @@
+C:\Users\Dudis\source\repos\AppCalculadora\CalculadoraPadrao\CalculadoraPadrao.csproj;x64
