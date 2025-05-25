@@ -8,15 +8,11 @@ namespace CalculadoraPadrao
         public MainPage()
         {
             InitializeComponent();
-            OpetionSystem();
+            OperationSystem();
         }
 
-        private void OpetionSystem()
+        private void OperationSystem()
         {
-
-            // Legenda:
-            // s = sender (o que vai ser enviado pelos botões da tela pro campo etrField)
-            // e = eventos (adicionar expressão, mostrar resultado, limpar ultimo digito ou limpar completamente o campo)
 
             btnZero.Clicked += (s, e) => AddToExpression("0");
             btnUm.Clicked += (s, e) => AddToExpression("1");

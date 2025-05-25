@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraPadrao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+73bd2e7a9a393b8765aebd89de4da67af0e063f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+74f2031b82b2285d0a4bd7821b482874e8ab68a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculadoraPadrao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraPadrao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

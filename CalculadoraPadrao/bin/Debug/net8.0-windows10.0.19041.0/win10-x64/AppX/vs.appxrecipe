@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Users\Dudis\source\repos\AppCalculadora\CalculadoraPadrao\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-05-24T19:24:28.517</Modified>
+      <Modified>2025-05-25T20:16:20.939</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppCalculadora\CalculadoraPadrao\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CalculadoraPadrao.dll">
       <PackagePath>CalculadoraPadrao.dll</PackagePath>
-      <Modified>2025-05-24T19:24:26.282</Modified>
+      <Modified>2025-05-25T20:16:18.553</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppCalculadora\CalculadoraPadrao\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>CalculadoraPadrao.exe</PackagePath>
-      <Modified>2025-05-24T19:24:26.315</Modified>
+      <Modified>2025-05-25T20:16:18.645</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppCalculadora\CalculadoraPadrao\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
